@@ -19,8 +19,6 @@ password: brobro
 
 Изменить настройки работы камеры возможно в файле `/opt/ros/kinetic/share/navibro/camera/camerav1_320x240.launch`
 
-{% code-tabs %}
-{% code-tabs-item title="/opt/ros/kinetic/share/navibro/camera/camerav1\_320x240.launch" %}
 ```text
 <launch>
   <node type="raspicam_node" pkg="raspicam_node" name="raspicam_node" output="screen">
@@ -41,8 +39,6 @@ password: brobro
 
 </launch>
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 
 После изменения параметров, необходимо перезапустить сервис navibro
 
@@ -72,6 +68,3 @@ nmcli dev wifi list
 [ipv4]
 address1=192.168.1.10/24,192.168.1.1
 ```
-
-
-

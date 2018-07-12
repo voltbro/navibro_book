@@ -1,3 +1,14 @@
 {
-    "plugins": ["hints"]
+  "language": "ru",
+  "author": "Nikolay Slabuha",
+  "title": "Система Навигации NaviBro",
+  "links": {
+    "sidebar": {
+        "Братья Вольт (Voltbro)": "http://www.voltbro.com"
+    }
+  },
+  "pdf":{
+    "fontSize": 11
+  },
+  "plugins": ["hints"]
 }
