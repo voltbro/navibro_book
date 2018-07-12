@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Система навигации NaviBro](README.md)
-* [Первый запуск](firstrun.md)
-* [Подключение и настройка](connect.md)
-* [Панель управления](panel.md)
-* [Установка меркерного поля](markers.md)
-* [Администрирование ROS](ros_admin.md)
+* [Первый запуск](pervyi-zapusk.md)
+* [Подключение и настройка](podklyuchenie-i-nastroika.md)
+* [Панель управления](panel-upravleniya.md)
+* [Установка меркерного поля](ustanovka-merkernogo-polya.md)
+* [Администрирование ROS](administrirovanie-ros.md)
 
